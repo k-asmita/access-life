@@ -76,6 +76,7 @@ All translations follow a simple, empathetic, and spoken tone suitable for under
 | Key | English (Original) | Hindi (हिन्दी) | Marathi (मराठी) |
 |---|---|---|---|
 | `footer.about_desc` | An initiative of Access Life Assistance Foundation, providing free accommodation and supportive care to children undergoing cancer treatment in Mumbai. | Access Life Assistance Foundation की एक पहल, जो मुंबई में कैंसर का इलाज करा रहे बच्चों को निःशुल्क आवास और देखभाल प्रदान करती है। | Access Life Assistance Foundation चा एक उपक्रम, जो मुंबईत कर्करोगावर उपचार घेणाऱ्या बालकांना मोफत निवास व काळजी प्रदान करतो. |
+| `footer.link_contact` | Contact Us | संपर्क करें | संपर्क साधा |
 | `whatsapp.text` | Chat on WhatsApp | WhatsApp पर बात करें | WhatsApp वर संपर्क साधा |
 
 ---
