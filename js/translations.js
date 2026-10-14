@@ -174,7 +174,8 @@ const translations = {
     "hospitals_page.treatments_label": "Treatments:",
     "hospitals_page.treatments_val": "Cancer, blood disorders (such as Thalassemia), bone marrow transplant",
     "hospitals_page.transport_heading": "Getting to the hospital",
-    "hospitals_page.transport_text": "We provide safe transport between the center and the hospital for treatment and appointments. Timings and schedule:",
+    "hospitals_page.transport_desc": "We provide safe transport between the centre and the hospital for treatment and medical appointments.",
+    "hospitals_page.transport_timing": "Timings: 11:00 AM to 2:00 PM",
     "hospitals_page.location_heading": "Our center location",
     "hospitals_page.location_address": "CTS 68, A/2, Opposite Neha Industrial Estate, Behind Geetanjali Tatva CHSL, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066",
     "hospitals_page.btn_directions": "Get Directions",
@@ -373,8 +374,8 @@ const translations = {
     "contact_page.form_thank_you": "Thank you for getting in touch. Our team will respond shortly.",
 
     // CTA Banner
-    "cta.title": "Are You a Family in Need or a Treating Oncologist?",
-    "cta.desc": "Our team is available to assist you with the admission process and support your stay during treatment.",
+    "cta.title": "Are You a Family in Need?",
+    "cta.desc": "Our team is available to assist you with the admission process and support your child's stay during treatment.",
     "cta.btn_admission": "Admission Steps & FAQ",
     "cta.btn_doctor": "Refer a Patient",
 
@@ -584,7 +585,8 @@ const translations = {
     "hospitals_page.treatments_label": "उपचार:",
     "hospitals_page.treatments_val": "कैंसर, रक्त विकार (जैसे थैलेसीमिया), बोन मैरो ट्रांसप्लांट",
     "hospitals_page.transport_heading": "अस्पताल पहुंचना",
-    "hospitals_page.transport_text": "हम इलाज और अपॉइंटमेंट के लिए केंद्र और अस्पताल के बीच सुरक्षित परिवहन प्रदान करते हैं। समय और कार्यक्रम:",
+    "hospitals_page.transport_desc": "हम उपचार और चिकित्सकीय अपॉइंटमेंट के लिए केंद्र और अस्पताल के बीच सुरक्षित परिवहन प्रदान करते हैं।",
+    "hospitals_page.transport_timing": "समय: सुबह 11:00 बजे से दोपहर 2:00 बजे तक",
     "hospitals_page.location_heading": "हमारे केंद्र का पता",
     "hospitals_page.location_address": "CTS 68, A/2, Opposite Neha Industrial Estate, Behind Geetanjali Tatva CHSL, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066",
     "hospitals_page.btn_directions": "दिशा-निर्देश प्राप्त करें (Get Directions)",
@@ -783,8 +785,8 @@ const translations = {
     "contact_page.form_thank_you": "संपर्क करने के लिए धन्यवाद। हमारी टीम जल्द ही आपसे संपर्क करेगी।",
 
     // CTA Banner
-    "cta.title": "क्या आपको रहने की जगह चाहिए या आप मरीज रेफर करना चाहते हैं?",
-    "cta.desc": "हमारी टीम प्रवेश प्रक्रिया में आपकी पूरी मदद करने और इलाज के दौरान सहयोग देने के लिए तैयार है।",
+    "cta.title": "क्या आपके परिवार को रहने की जगह और सहयोग चाहिए?",
+    "cta.desc": "हमारी टीम प्रवेश प्रक्रिया में आपकी पूरी मदद करने और इलाज के दौरान आपके बच्चे की देखभाल में सहयोग देने के लिए तैयार है।",
     "cta.btn_admission": "प्रवेश प्रक्रिया और अक्सर पूछे जाने वाले सवाल",
     "cta.btn_doctor": "मरीज रेफर करें (डॉक्टरों के लिए)",
 
@@ -994,7 +996,8 @@ const translations = {
     "hospitals_page.treatments_label": "उपचार:",
     "hospitals_page.treatments_val": "कर्करोग, रक्ताचे विकार (जसे की थॅलेसेमिया), बोन मॅरो ट्रान्सप्लांट",
     "hospitals_page.transport_heading": "रुग्णालयात पोहोचणे",
-    "hospitals_page.transport_text": "आम्ही उपचार आणि तपासणीसाठी केंद्र आणि रुग्णालय दरम्यान सुरक्षित वाहतूक पुरवतो. वेळ आणि वेळापत्रक:",
+    "hospitals_page.transport_desc": "आम्ही उपचार आणि वैद्यकीय तपासणीसाठी केंद्र आणि रुग्णालय दरम्यान सुरक्षित वाहतूक पुरवतो.",
+    "hospitals_page.transport_timing": "वेळ: सकाळी 11:00 ते दुपारी 2:00",
     "hospitals_page.location_heading": "आमच्या केंद्राचा पत्ता",
     "hospitals_page.location_address": "CTS 68, A/2, Opposite Neha Industrial Estate, Behind Geetanjali Tatva CHSL, Food Corporation of India Warehouse, Borivali East, Mumbai, Maharashtra 400066",
     "hospitals_page.btn_directions": "रस्ता मिळवा (Get Directions)",
@@ -1193,8 +1196,8 @@ const translations = {
     "contact_page.form_thank_you": "संपर्क केल्याबद्दल धन्यवाद. आमची टीम लवकरच आपल्याशी संपर्क करेल.",
 
     // CTA Banner
-    "cta.title": "तुम्हाला राहण्यासाठी जागेची गरज आहे का किंवा रुग्ण संदर्भित करायचा आहे?",
-    "cta.desc": "प्रवेश प्रक्रियेत मदत करण्यासाठी आणि उपचारादरम्यान साथ देण्यासाठी आमची टीम सदैव तत्पर आहे.",
+    "cta.title": "आपल्या कुटुंबाला राहण्यासाठी मोफत निवासाची गरज आहे का?",
+    "cta.desc": "प्रवेश प्रक्रियेत मदत करण्यासाठी आणि उपचारादरम्यान आपल्या बालकाला आधार देण्यासाठी आमची टीम सदैव तत्पर आहे।",
     "cta.btn_admission": "प्रवेश प्रक्रिया व वारंवार विचारले जाणारे प्रश्न",
     "cta.btn_doctor": "रुग्ण संदर्भित करा (डॉक्टरांसाठी)",
 
